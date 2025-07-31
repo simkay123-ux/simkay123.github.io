@@ -48,6 +48,7 @@ function nextTestimonial() {
 </script>
 
 <body class="font-poppins bg-white text-charcoal">
+</html>
     <!-- Navigation -->
     <nav class="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 shadow-sm">
         <div class="max-w-6xl mx-auto px-6 py-4">
