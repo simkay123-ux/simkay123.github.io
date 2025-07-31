@@ -23,6 +23,30 @@
         }
     </script>
 </head>
+
+<script>
+let currentIndex = 0;
+const testimonials = document.querySelectorAll('#testimonial-track > div');
+const track = document.getElementById('testimonial-track');
+
+function showTestimonial(index) {
+    if (index < 0) index = testimonials.length - 1;
+    if (index >= testimonials.length) index = 0;
+    currentIndex = index;
+    track.style.transform = `translateX(-${index * 100}%)`;
+}
+
+function previousTestimonial() {
+    showTestimonial(currentIndex - 1);
+}
+
+function nextTestimonial() {
+    showTestimonial(currentIndex + 1);
+}
+
+// Optional: Add a next button after your previous button
+</script>
+
 <body class="font-poppins bg-white text-charcoal">
     <!-- Navigation -->
     <nav class="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 shadow-sm">
