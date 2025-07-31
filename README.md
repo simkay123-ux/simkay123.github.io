@@ -311,9 +311,11 @@
                         </div>
                     </div>
                 </div>
-                <button onclick="previousTestimonial()" class="absolute left-0
+                <button onclick="previousTestimonial()" class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-electric-blue text-white px-4 py-2 rounded-full shadow-lg hover:bg-blue-600 transition-all duration-300">
+    <i class="fas fa-chevron-left"></i>
+</button>
 
-                <!-- Contact Section -->
+<!-- Contact Section -->
 <section id="Contact" class="py-20 bg-white">
   <div class="max-w-4xl mx-auto px-6">
     <div class="text-center mb-16">
