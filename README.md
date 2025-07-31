@@ -28,7 +28,7 @@
     <nav class="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 shadow-sm">
         <div class="max-w-6xl mx-auto px-6 py-4">
             <div class="flex justify-between items-center">
-                <div class="text-2xl font-bold text-charcoal">Your Name</div>
+                <div class="text-2xl font-bold text-charcoal">Simon Momoh</div>
                 <div class="hidden md:flex space-x-8">
                     <a href="#home" class="hover:text-electric-blue transition-colors">Home</a>
                     <a href="#about" class="hover:text-electric-blue transition-colors">About</a>
