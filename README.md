@@ -66,7 +66,7 @@
                     <p class="text-xl text-gray-600 mb-8 font-medium">
                         Design. Market. Convert.
                     </p>
-                    <button onclick="scrollToContact()" class="bg-electric-blue text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-600 transform hover:scale-105 transition-all duration-300 shadow-lg">
+                    <button onclick="https://www.instagram.com/simon_j4/" class="bg-electric-blue text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-600 transform hover:scale-105 transition-all duration-300 shadow-lg">
                         Work With Me
                     </button>
                 </div>
