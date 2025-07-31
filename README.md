@@ -325,7 +325,7 @@
     <div class="text-center mb-10">
      <a href="mailto:samecommerce5@gmail.com" class="bg-electric-blue text-white px-8 py-3 rounded-lg font-semibold text-lg hover:bg-blue-600 transition-all duration-300 shadow-md">
   Contact Me
-</a>
+      </a>
     </div>
 
     <!-- Social Media Links -->
@@ -336,7 +336,6 @@
       <a href="https://www.facebook.com/simon.momoh.2025" target="_blank" aria-label="Facebook" class="hover:text-blue-600 transition-colors">
         <i class="fab fa-facebook"></i>
       </a>
-      <a href="mailto:samecommerce5@gmail.com" aria-label="Email" class="hover:text-blue-600 transition-colors">
+      <a href="mailto:samecommerce5@gmail.com" target="_blank" aria-label="Email" class="text-white text-2xl hover:text-blue-400 transition-colors duration-300">
   <i class="fas fa-envelope"></i>
-</a>
-    </div>
+      </a>     
