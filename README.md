@@ -323,9 +323,9 @@
 
     <!-- Direct Email Button -->
     <div class="text-center mb-10">
-      <a href="mailto:samecommerce5@gmail.com" class="bg-electric-blue text-white px-8 py-3 rounded-lg font-semibold text-lg hover:bg-blue-600 transition-all duration-300 shadow-md">
-        Contact me
-      </a>
+     <a href="mailto:samecommerce5@gmail.com" class="bg-electric-blue text-white px-8 py-3 rounded-lg font-semibold text-lg hover:bg-blue-600 transition-all duration-300 shadow-md">
+  Contact Me
+</a>
     </div>
 
     <!-- Social Media Links -->
@@ -337,6 +337,6 @@
         <i class="fab fa-facebook"></i>
       </a>
       <a href="mailto:samecommerce5@gmail.com" aria-label="Email" class="hover:text-blue-600 transition-colors">
-        <i class="fas fa-envelope"></i>
-      </a>
+  <i class="fas fa-envelope"></i>
+</a>
     </div>
